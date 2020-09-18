@@ -1,13 +1,18 @@
 # Nedap Versions
 
-## How do I install these formulae?
+## How do I install these formula?
 `brew install mialdi98/homebrew-versions/<formula>`
 
-Or `brew tap mialdi98/homebrew-versions` and then `brew install <formula>`.
+Or `brew tap mialdi98/homebrew-versions/` and then `brew install <formula>`.
 
-Example, to install the latest version of `icu4c` 64.2:
+Example, to install the version of `icu4c`:
+Upload needed version to your repo to 'Formula' folder:
+(62) https://raw.githubusercontent.com/Homebrew/homebrew-core/575eb4bbef683551e19f329f60456b13a558132f/Formula/icu4c.rb
+(64) https://raw.githubusercontent.com/Homebrew/homebrew-core/a806a621ed3722fb580a58000fb274a2f2d86a6d/Formula/icu4c.rb 
+(66) https://raw.githubusercontent.com/Homebrew/homebrew-core/22fb699a417093cd1440857134c530f1e3794f7d/Formula/icu4c.rb
+(67) https://raw.githubusercontent.com/Homebrew/homebrew-core/88b9cc789820f2f544d8d4a1053eebb044c2926c/Formula/icu4c.rb
 ```
-brew install mialdi98/homebrew-versions/icu4c@64.2.rb
+brew install mialdi98/homebrew-versions/icu4c
 ```
 
 ## Documentation
