@@ -1,4 +1,4 @@
-# Nedap Versions
+# mialdi98 Versions
 
 ## How do I install these formula?
 `brew install mialdi98/homebrew-versions/<formula>`
